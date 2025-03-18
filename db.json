@@ -7,5 +7,23 @@
       "NEXTESTD_SHIPMENTDATE": "2025/01/01",
       "NEXTESTD_SHIPMENTQTY": "123"
     }
+  ],
+  "ET_RETURN": [
+    {
+      "TYPE": "S",
+      "ID": "",
+      "NUMBER": "000",
+      "MESSAGE": "Request executed successfully",
+      "LOG_NO": "",
+      "LOG_MSG_NO": "000000",
+      "MESSAGE_V1": "",
+      "MESSAGE_V2": "",
+      "MESSAGE_V3": "",
+      "MESSAGE_V4": "",
+      "PARAMETER": "",
+      "ROW": "0",
+      "FIELD": "",
+      "SYSTEM": ""
+    }
   ]
 }
