@@ -1,0 +1,70 @@
+{
+    "data" : {
+      "customerDeliveryAddresses" : [
+      ],
+      "customers" : [
+        {
+          "deliveryDays" : "Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday",
+          "priceCode" : 1,
+          "zipCode" : "90703",
+          "arTerms" : "SEE MANAGEMENT",
+          "premisesCode" : "ON",
+          "licenseType" : "L",
+          "deliveryFrequency" : "Daily Delivery",
+          "licenseExpirationDate" : "9999-10-09T00:00:00Z",
+          "pastDue" : 0,
+          "warehouseId" : 201,
+          "latitude" : 0,
+          "address1" : "17101 VALLEY VIEW AVE",
+          "city" : "CERRITOS",
+          "name" : "TEAM #116 CARROLL",
+          "nextDeliveryDate" : "2025-03-24T00:00:00Z",
+          "currentBalance" : 0,
+          "state" : "CA",
+          "id" : 48183,
+          "address2" : "",
+          "creditLimit" : 1,
+          "phone" : "5620000000",
+          "availableCredit" : 1,
+          "longitude" : 0,
+          "license" : "00000202020",
+          "enableElectronicPayments" : false,
+          "totalBalance" : 0,
+          "lastPaymentAmount" : 0
+        }
+      ],
+      "customerBankAccounts" : [
+  
+      ],
+      "currentTransactionStatusHeader" : [
+      ],
+      "customerNotifications" : [
+        {
+          "createdDate" : "2025-03-11T10:10:10.000Z",
+          "id" : 1,
+          "code" : "CODE",
+          "documentNumber" : "12345",
+          "customerId" : "",
+          "submissionDate" : "2025-03-11T10:10:10.000Z",
+          "description" : "description 1",
+          "netAmount" : "12.45"
+        },
+        {
+          "createdDate" : "2025-03-10T10:10:10.000Z",
+          "id" : 2,
+          "code" : "CODE",
+          "documentNumber" : "12345",
+          "customerId" : "",
+          "description" : "description 2",
+          "submissionDate" : "2025-03-10T10:10:10.000Z",
+          "netAmount" : "13.45"
+        }
+      ],
+      "currentTransactionStatusDetail" : [
+  
+      ],
+      "customerAR" : [
+  
+      ]
+    }
+  }
