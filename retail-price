@@ -1,0 +1,119 @@
+{
+  "data": {
+    "items": [
+      
+    ],
+    "itemDeletions": [
+      
+    ],
+    "comboHeaders": [
+      
+    ],
+    "comboDetails": [
+      
+    ],
+    "comboHeadersDeletions": [
+      
+    ],
+    "comboDetailsDeletions": [
+      
+    ],
+    "discountDetails": [
+      
+    ],
+    "discountDetailsDeletions": [
+      
+    ],
+    "itemOnHand": [
+      
+    ],
+    "itemOnHandDeletions": [
+      
+    ],
+    "mixAndMatchHeaders": [
+      
+    ],
+    "mixAndMatchDetails": [
+      
+    ],
+    "mixAndMatchBrandItems": [
+      
+    ],
+    "mixAndMatchHeadersDeletions": [
+      
+    ],
+    "mixAndMatchDetailsDeletions": [
+      
+    ],
+    "mixAndMatchBrandItemsDeletions": [
+      
+    ],
+    "prices": [
+      
+    ],
+    "priceDeletions": [
+      
+    ],
+    "retailPrices": [
+      {
+        "id": 139,
+        "retailPrice": 110,
+        "salesUnit": "bottle",
+        "modifiedDate": "2025-03-20T21:52:30.478Z"
+      }
+    ],
+    "warehouses": [
+      {
+        "id": 8701,
+        "name": "Fort Worth"
+      },
+      {
+        "id": 8702,
+        "name": "Katy"
+      },
+      {
+        "id": 8703,
+        "name": "Austin"
+      },
+      {
+        "id": 8704,
+        "name": "San Antonio"
+      },
+      {
+        "id": 8706,
+        "name": "San Angelo"
+      },
+      {
+        "id": 8711,
+        "name": "SGWS KY RDC - TX"
+      },
+      {
+        "id": 8712,
+        "name": "SGWS CA RDC - TX"
+      }
+    ],
+    "pickupCodes": [
+      
+    ],
+    "specialInstructions": [
+      {
+        "id": "1201",
+        "description": "ZFDT"
+      }
+    ],
+    "transactionTypes": [
+      {
+        "id": "C",
+        "description": "Credit Memo/Return"
+      },
+      {
+        "id": "D",
+        "description": "Debit Invoice "
+      },
+      {
+        "id": "I",
+        "description": "Regular Invoice"
+      }
+    ]
+  }
+}
