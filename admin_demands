@@ -1,0 +1,22 @@
+{
+  "id": 123445,
+  "demand_id": 122343434,
+  "created_by": "Rajesh",
+  "created_at": "12/04/2025",
+  "status": "In Progress",
+  "job_description": "",
+  "open_positions": [
+    "T1",
+    "T4"
+  ],
+  "ta": [
+    {
+      "name": "Rajesh Babu",
+      "email": "rpolamar.dev@gmail.com"
+    },
+    {
+      "name": "Rajesh Babu",
+      "email": "rpolamar.dev@gmail.com"
+    }
+  ]
+}
