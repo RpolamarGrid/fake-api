@@ -1,0 +1,9 @@
+{
+    "message": "Login successful",
+    "success": true,
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoxLCJ1c2VybmFtZSI6InVzZXIxIiwiZXhwIjoxNzQ1MTQzMzkxfQ.VgfZ9DFb41qDRSAic7wlxgncmccVksuphPDNJYvsYWc",
+    "user": {
+        "id": 1,
+        "username": "user1"
+    }
+}
