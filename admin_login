@@ -1,11 +1,10 @@
 {
-    "message": "Admin logged in successfully",
-    "admin_data": {
-        "_id": "6804c427d5912186a89ab781",
-        "name": "Krishna Kumar",
-        "email": "admin@griddynamics.com",
-        "password": "12345",
-        "role": "ADMIN",
-        "profile_url": ""
+    "message": "Login successful",
+    "success": true,
+    "token": "",
+    "user": {
+        "id": 1,
+        "username": "user1"
+
     }
 }
